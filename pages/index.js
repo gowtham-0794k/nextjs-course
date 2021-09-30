@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>Hello Next world!</h1>
+      <span>User name change !</span>
     </div>
   );
 }
